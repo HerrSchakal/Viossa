@@ -1,0 +1,9 @@
+🔴 ro/rosh
+🟠 portokali
+🟡 kiro
+🟢 midori
+🔵 sini/bly
+🟣 mura
+🟤 kafe
+⚫ kuro
+⚪ shiro
