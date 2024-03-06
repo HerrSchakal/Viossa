@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tiid.md",
+                "file": "un du auauau.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d987d3356b1c214c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spyrko.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tiid.md",
+                "file": "spyrko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tiid.md",
+                "file": "spyrko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tiid.md"
+                "file": "spyrko.md"
               }
             }
           }
@@ -171,16 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c806e6f906162a1",
+  "active": "d987d3356b1c214c",
   "lastOpenFiles": [
-    "Netopatel auauau.md",
-    "tiid.md",
+    "un du auauau.md",
+    "spyrko.md",
     "Varge.md",
+    "tiid.md",
+    "Netopatel auauau.md",
     "Paperi auauau.md",
     "Lant au Flakken.md",
     "Asmi auauau.md",
     "Lasku.md",
-    "un du auauau.md",
     "Pasted image 20240305151408.jpg",
     "Untitled",
     "Welcome.md"
