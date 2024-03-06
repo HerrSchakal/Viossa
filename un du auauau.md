@@ -4,6 +4,6 @@ Du - djin, nai un
 	ttb: xx nama dua
 Sor - ander djin, nai du
 
-Vi - un au du au sori
+Vi - un au du
 
 Hej - mange sor, "sor au sor au sor au sor"
