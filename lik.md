@@ -1,3 +1,3 @@
-tak = lik afto 
-komsa = lik tuo 
-nayang = lik asoko
+tak = lik afto tropos
+komsa = lik tuo tropos
+nayang = lik asoko tropos
