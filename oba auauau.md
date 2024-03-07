@@ -1,7 +1,7 @@
-oba 
-una 
-leva
-migo 
+oba    ^
+una    v
+leva   <
+migo  >
 
 
 stuur    O
