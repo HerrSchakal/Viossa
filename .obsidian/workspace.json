@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da72c5641e8fcccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oba auauau.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Varge.md",
+                "file": "oba auauau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Varge.md",
+                "file": "oba auauau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Varge.md"
+                "file": "oba auauau.md"
               }
             }
           }
@@ -183,13 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d987d3356b1c214c",
+  "active": "da72c5641e8fcccf",
   "lastOpenFiles": [
+    "Varge.md",
+    "oba auauau.md",
     "Paperi auauau.md",
     "tiid.md",
     "un du auauau.md",
     "spyrko.md",
-    "Varge.md",
     "Laksu.md",
     "Netopatel auauau.md",
     "Lant au Flakken.md",
