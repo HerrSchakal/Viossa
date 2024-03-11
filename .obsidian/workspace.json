@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lik.md",
+                "file": "Lasku.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lik.md",
+                "file": "Lasku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lik.md",
+                "file": "Lasku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lik.md"
+                "file": "Lasku.md"
               }
             }
           }
@@ -209,14 +209,14 @@
   },
   "active": "00818c26f66fc7dc",
   "lastOpenFiles": [
-    "oba auauau.md",
     "lik.md",
+    "oba auauau.md",
     "Varge.md",
     "Paperi auauau.md",
     "tiid.md",
     "un du auauau.md",
     "spyrko.md",
-    "Laksu.md",
+    "Lasku.md",
     "Netopatel auauau.md",
     "Lant au Flakken.md",
     "Asmi auauau.md",
