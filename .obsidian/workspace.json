@@ -88,9 +88,19 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "5e49fe20e03250e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,7 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b67acedd7dfffbc0",
+  "active": "5e49fe20e03250e4",
   "lastOpenFiles": [
     "lik.md",
     "oba auauau.md",
